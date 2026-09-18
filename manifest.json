@@ -1,0 +1,22 @@
+
+{
+  "short_name": "ASPPS",
+  "name": "ASPPS - Pendampingan Pengawas Sekolah",
+  "icons": [
+    {
+      "src": "logo_lebak.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo_lebak.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#f8fafc"
+}

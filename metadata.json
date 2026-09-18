@@ -1,0 +1,11 @@
+{
+  "name": "ASPPS (Aplikasi Siklus Pendampingan Pengawas Sekolah)",
+  "description": "Aplikasi pendampingan pengawas sekolah berdasarkan Perdirjen GTK 4831/2023, membantu transformasi peran pengawas sekolah dalam siklus pendampingan satuan pendidikan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
